@@ -138,8 +138,3 @@ This assignment contrasts two ways to solve sequential decision-making problems:
 
 It also demonstrates compact state representations, transition precomputation, dynamic programming, exploration/exploitation, and tabular temporal-difference learning.
 
-## Attribution and sharing
-
-This project is based on **Introduction to AI — Assignment 2**. The `env.py`, `run.py`, test inputs, and visualization assets originate from course-provided starter code; the two `agent.py` files are the submitted solutions. **Check the course's public-sharing policy and any collaborator permissions before publishing** starter materials or solution code. No permission or open-source license for the starter materials was supplied with the archive.
-
-No performance claims are made without retained evaluation logs.
